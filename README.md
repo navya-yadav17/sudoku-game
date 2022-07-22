@@ -1,5 +1,5 @@
 # sudoku-game
-created a full c++ based code to create a sudoku solver usnig backtracking.
+created a full c++ based code to create a sudoku solver using backtracking.
 
 
 
